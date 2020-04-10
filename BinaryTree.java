@@ -24,9 +24,6 @@ class TreeNode{
 		return "[" + key + "," + left + "," + right + "]";
 	}
 	
-	tentativa
-	
-	
 }
 
 public class BinaryTree {
