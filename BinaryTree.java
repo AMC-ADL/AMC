@@ -2,8 +2,6 @@ package aula5;
 
 import java.util.ArrayList;
 
-difosfdsofisdiof
-
 class TreeNode{
 	int key;
 	TreeNode left;
