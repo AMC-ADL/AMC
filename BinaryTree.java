@@ -24,6 +24,8 @@ class TreeNode{
 		return "[" + key + "," + left + "," + right + "]";
 	}
 	
+	tentativa
+	
 	
 }
 
